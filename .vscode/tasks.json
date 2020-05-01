@@ -9,7 +9,7 @@
         "-Wall",
         "-Wextra",
         "-g",
-        "C:/Users/karti/OneDrive/Documents/CProjects/cpp101/learn.cpp",
+        "C:/Users/karti/OneDrive/Documents/CProjects/cpp101/source/learn.cpp",
         "-o",
         "C:/Users/karti/OneDrive/Documents/CProjects/cpp101/build/learn.exe"
       ],
