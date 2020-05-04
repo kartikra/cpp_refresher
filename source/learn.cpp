@@ -1,5 +1,5 @@
-#include "basics.h"
-#include "primitive_data_types.h"
+#include "basics_1.h"
+#include "basics_2.h"
 #include "control_structures.h"
 #include "datatypes.h"
 using namespace std;
