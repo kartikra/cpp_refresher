@@ -1,3 +1,7 @@
-build/
-cmake-build-debug/
 .*idea/
+build/
+CMakeFiles/
+Makefile
+learning
+CMakeCache.txt
+cmake_install.cmake
